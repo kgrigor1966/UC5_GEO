@@ -1,0 +1,5 @@
+# Ignore everything:
+/aitest/UC5_GEO/*
+
+# Except the following directories:
+!/aitest/UC5_GEO/dir3
