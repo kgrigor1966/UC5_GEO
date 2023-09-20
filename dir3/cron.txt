@@ -1,0 +1,5 @@
+*/5 * * * * php /var/www/my_script.php
+
+
+
+crontab -e
